@@ -7,7 +7,7 @@ Na hora de criar sua app basta digitar o seguinte comando:
 
 python manage.py startapp --template https://github.com/TimeNovaData/django_app_modelo/raw/master/app_modelo.zip nome_app
 
-#Deseja fazer melhorias?
+# Deseja fazer melhorias?
 Siga o passo a passo :)
 
 1- Baixe o código
