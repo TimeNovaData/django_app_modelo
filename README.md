@@ -5,5 +5,13 @@ Além de ser mais organizado é mais produtivo, pois essa app já trás uma pré
 
 Na hora de criar sua app basta digitar o seguinte comando:
 
-python manage.py startapp --template https://github.com/TimeNovaData/django_app_modelo.git nome_app
+python manage.py startapp --template https://github.com/TimeNovaData/django_app_modelo/raw/master/app_modelo.zip nome_app
 
+#Deseja fazer melhorias?
+Siga o passo a passo :)
+
+1- Baixe o código
+
+2- Faça as modificações que você deseja dentro da pasta app_modelo
+
+3- Apague o arquivo .zip e depois crie um novo atualizado
