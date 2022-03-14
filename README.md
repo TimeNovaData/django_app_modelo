@@ -17,3 +17,7 @@ Siga o passo a passo :)
 2- Faça as modificações que você deseja dentro da pasta app_modelo
 
 3- Apague o arquivo .zip e depois crie um novo atualizado
+
+4- Faça um pull request como de costume e pronto!
+
+Obrigado por contribuir! o/
